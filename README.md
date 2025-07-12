@@ -50,8 +50,43 @@ cd Food-Delivery-Website
 npm install
 ```
 ## 📸 Screenshots
-### 🏠 Homepage
-![Homepage](fooddeliverywebsit.png)
+## User Section
+### Home Page
+![Homepage](Images/User/fooddeliverywebsit.png)
+
+### Login Page
+![Login](Images/User/Login.png)
+
+### Signup Page
+![Signup](Images/User/Signup.png)
+
+### Add to Card Page
+![Addtocard](Images/User/addtocard.png)
+
+### Address Details Page
+![AddressDetails](Images/User/AddressDetails.png)
+
+### Order Dashboard Page
+![OrderDesbord](Images/User/OrderDesbord.png)
+
+### My Order Page
+![MyOrder](Images/User/MyOrder.png)
+
+## Admin Section
+### Admin DashBoard Page
+![AdminDasboard](Images/Admin/AdminDasboard.png)
+
+### Category Add Page
+![CategoryAdd](Images/Admin/CategoryAdd.png)
+
+### Category List Page
+![CategoryList](Images/Admin/CategoryList.png)
+
+### Item Add Page
+![ItemAdd](Images/Admin/ItemAdd.png)
+
+### Item List Page
+![itemList](Images/Admin/itemList.png)
 
 ## Configuration
 Create a .env file in the root directory:
