@@ -51,7 +51,7 @@ npm install
 ```
 ## 📸 Screenshots
 ### 🏠 Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](fooddeliverywebsit.png)
 
 ## Configuration
 Create a .env file in the root directory:
