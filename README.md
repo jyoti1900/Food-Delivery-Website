@@ -56,7 +56,7 @@ npm install
 ## Configuration
 Create a .env file in the root directory:
 ```.env
-PORT=5000
+PORT=3000
 MONGO_URI=your-mongodb-connection-string
 JWT_SECRET=your-secret-key
 ```
@@ -65,7 +65,7 @@ JWT_SECRET=your-secret-key
 ```bash
 npm start
 ```
-Then visit: http://localhost:5000
+Then visit: http://localhost:3000
 
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change.
