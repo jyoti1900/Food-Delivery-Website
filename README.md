@@ -25,6 +25,7 @@ A full-stack Food Delivery Website designed to connect users with restaurants, e
 | Git & GitHub | Version control |
 
 ## 📁 Project Structure
+
 project-root/
 │
 ├── controllers/ # Route logic
