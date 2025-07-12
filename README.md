@@ -98,6 +98,10 @@ JWT_SECRET=your-secret-key
 
 ## Run Locally
 ```bash
+cd Food-Delivery-Website
+cd fdp-backend-node
+npm start
+cd fdp-frontend-react
 npm start
 ```
 Then visit: http://localhost:3000
