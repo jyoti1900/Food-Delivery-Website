@@ -26,16 +26,16 @@ A full-stack Food Delivery Website designed to connect users with restaurants, e
 
 ## 📁 Project Structure
 
-project-root/
-│
-├── controllers/ # Route logic
-├── models/ # Mongoose schemas
-├── routes/ # API endpoints
-├── views/ # HTML files or frontend framework
-├── public/ # Static assets
-├── .env # Environment variables
-├── server.js # Entry point
-└── README.md # Project info
+### project-root/
+### │
+### ├── controllers/ # Route logic
+### ├── models/ # Mongoose schemas
+### ├── routes/ # API endpoints
+### ├── views/ # HTML files or frontend framework
+### ├── public/ # Static assets
+### ├── .env # Environment variables
+### ├── server.js # Entry point
+### └── README.md # Project info
 
 
 ## 🧑‍💻 Getting Started
