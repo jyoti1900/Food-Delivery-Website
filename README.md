@@ -20,9 +20,10 @@ A full-stack Food Delivery Website designed to connect users with restaurants, e
 | Express.js | Server framework |
 | MongoDB    | NoSQL Database |
 | Mongoose   | ODM for MongoDB |
-| HTML/CSS/JS or React | Frontend *(depends on your implementation)* |
+| HTML/CSS/JS or React | Frontend *(depends on implementation)* |
 | JWT / Session | Authentication |
 | Git & GitHub | Version control |
+| AWS | Hosting & Web App Deployment |
 
 ## 📁 Project Structure
 
