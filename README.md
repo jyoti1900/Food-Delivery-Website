@@ -23,7 +23,7 @@ A full-stack Food Delivery Website designed to connect users with restaurants, e
 | HTML/CSS/JS or React | Frontend *(depends on implementation)* |
 | JWT / Session | Authentication |
 | Git & GitHub | Version control |
-| AWS | Hosting & Web App Deployment |
+| AWS | Hosting & Web App Deployment, S3 Bucket, EC2 Instances Components |
 
 ## 📁 Project Structure
 
