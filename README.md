@@ -109,4 +109,4 @@ npm start
 Then visit: http://localhost:3000
 
 ## 🤝 Contributing
-Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change.
+Contributed to our college minor project with friends, collaborating on planning, coding, debugging, and documentation while using GitHub for version control, enhancing teamwork, technical skills, and problem-solving abilities. ✅
